@@ -1,0 +1,201 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+#main-conten{	
+	width:1000px;
+	margin:0px auto;
+}
+
+#headerPanel{
+	padding:15px;
+	border-bottom:1px solid #B8B8B8;
+}
+
+#contentPanel{
+	margin-top:20px;
+}
+#signInImagePanel{
+	margin: 30px;
+}
+
+#signInFormPanel{
+	margin-top:30px;
+	padding-left:20px;
+	padding-right:20px;
+	background-color: white;
+	border-top : 10px solid #96c11f;
+	box-shadow: -15px -5px 20px #888888;
+	border-radius: 15px;
+	float: right;
+}
+#signInFormLogo{
+	margin-bottom: 25px;
+	margin-top: 10px;
+}
+.signInFormElements{
+	padding: 5px;
+	margin-bottom: 15px;
+	width:185px;
+}
+#signInBtn{
+	width:200px;
+	background-color:#96c11f;
+	color:white;
+}
+
+#signUpBtn{
+	margin-top: 25px;
+	margin-bottom: 15px;
+	width:200px;
+	background-color: #96c11f;
+	color:white;
+}
+#singnUpMainPage{
+	font:normal 15px Tahoma;
+	margin-left: 250px;
+	margin-bottom: 15px;
+}
+#lblSignUp{
+	font:bold 20px Tahoma;
+	color: #96c11f;
+}
+.signUpPage-signUpBtn{
+	background-color: #96c11f;
+	color: white;
+}
+
+#errorMsg{
+	color:red;
+}
+
+#hotBtn{
+	background-color: #FF1919;
+	border-style: none;
+}
+.warmBtn{
+	background-color: #FF9900;
+	border-style: none;
+}
+.lukeWarmBtn{
+	background-color: #FFFF00;
+	border-style: none;
+}
+.coldBtn{
+	background-color: #8AB800;
+	border-style: none;
+}
+.forgetBtn{
+	background-color: #0066FF;
+	border-style: none;
+}
+
+
+.gold{
+	background-color: #808080;
+	border-style: none;
+}
+.silver{
+	background-color: #FFFF00;
+	border-style: none;
+}
+.bronze{
+	background-color: #CC7A00;
+	border-style: none;
+}
+.wood{
+	background-color: #FF6600;
+	border-style: none;
+}
+.ash{
+	background-color: #FF0000;
+	border-style: none;
+}
+#mainResPanel{
+	border-bottom: 1px solid #B8B8B8;
+	/*box-shadow: -15px -5px 20px #888888;*/
+}
+.mbExplainBtn{
+	font-size: 11px;
+	margin-left: 7px;
+}
+.pvExplainBtn{
+	font-size: 11px;
+	margin-left: 7px;
+}
+.mbLabel{
+	margin-right: 5px
+}
+.pvLabel{
+	margin-right: 7px;
+}
+.mainResPanel{
+	padding-top: 6px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #96c11f;
+	
+}
+.mainContainer{
+	border: 1px solid #96c11f;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.headerOfContainer{
+	border: 1px solid #96c11f; 
+	background-color: #96c11f;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.headerDescription{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	font:bold 15px Tahoma;
+}
+
+#UpdatePerfOrManageDocMainPanel{
+	border: 1px solid #96c11f;
+	border-top: 10px solid #96c11f;
+	background-color: white;
+}
+
+#qMainPanel * {
+	margin: 5px;
+	font-size: medium;
+}
+#QpFooterPanel{
+	border-top: 1px solid #96c11f;
+	padding-top: 3px;
+}
+#resContainerFooterForEmpityRes{
+	border-top: 1px solid #96c11f;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

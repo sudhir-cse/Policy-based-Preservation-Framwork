@@ -1,0 +1,3 @@
+# Module RuleInterface
+# RPC service class, partial path of RPC policy file
+de.l3s.forgetit.presenter.RuleServices, 6699EC2C28F5702331879A4DF0BC6BFE.gwt.rpc

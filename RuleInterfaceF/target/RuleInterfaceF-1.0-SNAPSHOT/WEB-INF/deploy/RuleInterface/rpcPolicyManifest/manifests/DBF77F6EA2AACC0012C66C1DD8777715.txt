@@ -1,0 +1,2 @@
+serviceClass: de.l3s.forgetit.presenter.RuleServices
+path: 6699EC2C28F5702331879A4DF0BC6BFE.gwt.rpc

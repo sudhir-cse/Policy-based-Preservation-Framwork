@@ -1,0 +1,14 @@
+
+package de.l3s.forgetit.drools.rules
+import de.l3s.forgetit.model.Resources;
+
+rule "rule1.1"
+
+    when
+    	$res : Resources(correctMB <= 0.5)
+    	
+    then
+    
+        $res.setCorrectPV("neglect");
+        
+end
